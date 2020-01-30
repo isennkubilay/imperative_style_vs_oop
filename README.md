@@ -1,2 +1,2 @@
-# imperative style Vs Object Oriented Programming
-imperative style list vs oop style very simple explanation 
+# Imperative Style vs Object Oriented Programming
+imperative style list vs oop style list very simple explanation 
